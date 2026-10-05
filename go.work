@@ -1,0 +1,4 @@
+go 1.25
+
+// Add each Go service here once it has its own go.mod, e.g.:
+// use ./assets-service
